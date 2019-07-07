@@ -1,4 +1,4 @@
-package com.corejava.oops.com.corejava.oops.abstraction;
+package com.corejava.oops.abstraction;
 
 public class TestAbstraction {
 
